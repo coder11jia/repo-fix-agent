@@ -188,7 +188,7 @@ python -m pytest -q
 先克隆项目：
 
 ```bash
-git clone <你的仓库地址>
+git clone  https://github.com/coder11jia/repo-fix-agent.git
 cd repo-fix-agent
 ```
 
